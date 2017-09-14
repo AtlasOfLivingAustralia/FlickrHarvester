@@ -1,0 +1,8 @@
+
+\.idea/
+
+activemq-data/
+
+target/
+
+config\.properties
