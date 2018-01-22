@@ -1,8 +1,16 @@
 
-\.idea/
+.idea/
+
+.iml
 
 activemq-data/
 
 target/
 
-config\.properties
+config.properties
+
+.settings/
+
+.project
+
+.classpath
