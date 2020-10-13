@@ -89,7 +89,7 @@
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
-            <version>1.9.3</version> <!-- Add the latest version of BeanUtils here. -->
+            <version>1.9.4</version> <!-- Add the latest version of BeanUtils here. -->
         </dependency>
 
         <dependency>
